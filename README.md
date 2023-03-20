@@ -1,4 +1,10 @@
 <h1 align="center">Hi 👋, I'm Joyce</h1>
+<div align="center">
+
+  ![AniJoyce-computer](https://user-images.githubusercontent.com/74479774/226429800-4c4c6aaf-941c-497b-912a-1adcd66b54d6.png)
+
+</div>
+
 <h3 align="center">A passionate iOS developer from Tenerife</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=joycerosbat&label=Profile%20views&color=0e75b6&style=flat" alt="joycerosbat" /> </p>
