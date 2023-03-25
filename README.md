@@ -11,7 +11,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joycerosbat" alt="joycerosbat" /></a> </p>
 
-- 🔭 I’m currently working on **OneApp**
+- 🔭 I’m currently working as **iOS Lead in one of the most important projects in the banking sector in Europe**
 
 - 👨‍💻 You can find more information here [https://joycerosbat.github.io/](https://joycerosbat.github.io/)
 
